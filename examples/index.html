@@ -36,7 +36,7 @@
         <h3>1. Basic example </h3>
         <p>Create html container element(div) and add class 'file-upload'</p>
 
-        <div class="file-upload">
+        <div class="file-upload" data-input-name="input1">
 
         </div>
 
@@ -46,7 +46,7 @@
     <div>
         <h3>2.With callback function </h3>
         <p>Add a new attribute called data-callback set the value to the full function name. The function will be called back after loading the thumbnail it retrun  the container element as paramter.</p>
-        <div class="file-upload" data-unodz-callback="MyObject.foo">
+        <div class="file-upload" data-input-name="input2" data-unodz-callback="MyObject.foo">
         </div>
 
         <div style="background: cornflowerblue;color: whitesmoke;width:40% ">
@@ -62,7 +62,7 @@
         <p>
             Structure is easy customize.
         </p>
-        <div class="file-upload custom-drop-zone" data-unodz-msg="Custom message to show on mouse hover">
+        <div class="file-upload custom-drop-zone" data-input-name="input3" data-unodz-msg="Custom message to show on mouse hover">
         </div>
         </span>
     </div>
