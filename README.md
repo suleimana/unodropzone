@@ -10,7 +10,7 @@ UnoDropZone is a tool to easily create ***single*** image drop zone areas. The l
 Demo 
 --------
 
-exmaples/index.html
+unodropzone/examples/index.html
 
 Prerequisites
 -------
