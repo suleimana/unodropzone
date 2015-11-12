@@ -5,7 +5,7 @@ UnoDropZone
 What is UnoDropZone?
 -----
 
-UnoDropZone is a tool to easily create ***single*** image drop zone areas. The library will convert the targeted html elements into Drop/click area to allow loading a single Image. The load image automatically changes into a thumbnail.
+UnoDropZone is a tool to easily create ***single*** image drop zone areas. The library will convert the targeted html elements into Drop/click area to allow loading a single Image. The loaded image automatically changes into a thumbnail.
  
 Demo 
 --------
