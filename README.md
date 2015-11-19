@@ -11,7 +11,7 @@ Demo
 --------
 
 
-[UnoDropZone Demo page.](https://cdn.rawgit.com/suleimana/unodropzone/master/examples/index.html).
+[UnoDropZone Demo page.](https://cdn.rawgit.com/suleimana/unodropzone/master/examples/index.html)
 
 
 
