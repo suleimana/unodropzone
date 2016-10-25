@@ -52,7 +52,7 @@ Features
 Once image is uploaded a thumbnail image will be generated. 
 
 ### - Image Information
-Image will be populated under under hidden element with class 'info'.  Currently the library generates the span element for Name and size information.  
+Image will be populated under hidden element with class 'info'.  Currently the library generates the span element for Name and size information.  
 
 ###  - Callback Function
 You can define a callback function to executed after loading the image, by adding data attribute called **"data-unodz-callback"**. The callback passes only one argument into the executed function, which is a reference to the targeted drop zone.
